@@ -24,7 +24,7 @@ public class SpawnObject : MonoBehaviour {
     {
         Instantiate(RockPrefab, transform.position, Quaternion.identity);
 
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(3);
 
         StartCoroutine(SpawnRock());
     }
