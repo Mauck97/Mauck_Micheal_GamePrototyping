@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M.MauckPrototype1", "M.MauckPrototype1.csproj", "{6EDC1939-FEE2-C846-ACA7-421EDCEF47DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M.MauckPrototype1.Plugins", "M.MauckPrototype1.Plugins.csproj", "{CA04583E-58CD-43C7-775E-3B2EEDE81C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M.MauckPrototype1.Editor.Plugins", "M.MauckPrototype1.Editor.Plugins.csproj", "{EC8FB509-B336-DA28-4413-3D43B9167594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDC1939-FEE2-C846-ACA7-421EDCEF47DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDC1939-FEE2-C846-ACA7-421EDCEF47DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDC1939-FEE2-C846-ACA7-421EDCEF47DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDC1939-FEE2-C846-ACA7-421EDCEF47DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA04583E-58CD-43C7-775E-3B2EEDE81C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA04583E-58CD-43C7-775E-3B2EEDE81C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA04583E-58CD-43C7-775E-3B2EEDE81C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA04583E-58CD-43C7-775E-3B2EEDE81C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8FB509-B336-DA28-4413-3D43B9167594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8FB509-B336-DA28-4413-3D43B9167594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8FB509-B336-DA28-4413-3D43B9167594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8FB509-B336-DA28-4413-3D43B9167594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
